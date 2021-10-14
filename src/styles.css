@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  font-size: 15px;
+  border: 1px dotted orange;
+  background-color: white;
+  margin: 20px;
+}
+
+body{
+  background-color: #F7EBD9;
+}
